@@ -3,7 +3,7 @@
 **`Desenvolvedor Back-end`**
 
 
-Me chamo Matheus Vitório Nascimento, tenho 17 anos e sou natural de São paulo. Concluí o ensino médio no Sesi-sp, com o curso técnico em Multimeios Didaticos. Atualmente, estou cursando Egenharia de software na UNICID. Sou apaixonado por tecnologia e estou sempre em busca de mais conhecimento
+Me chamo Matheus Vitório Nascimento, tenho 18 anos e sou natural de São paulo. Concluí o ensino médio no Sesi-sp, com o curso técnico em Multimeios Didaticos. Atualmente, estou cursando Egenharia de software na UNICID. Sou apaixonado por tecnologia e estou sempre em busca de mais conhecimento
 
 ---
 
