@@ -7,7 +7,7 @@
 
 </div>
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 ```yaml
 nome:          Matheus Vitório Nascimento
@@ -20,7 +20,7 @@ objetivo:      Evoluir como desenvolvedor
 
 Sou estudante de tecnologia e tenho interesse em programação e desenvolvimento de software. Estou sempre buscando aprimorar meus conhecimentos, aprender novas tecnologias e desenvolver minhas habilidades para crescer profissionalmente na área de tecnologia.
 
-## 🛠️ Tecnologias e ferramentas
+##  Tecnologias e ferramentas
 
 <div align="center">
 
@@ -34,12 +34,17 @@ Sou estudante de tecnologia e tenho interesse em programação e desenvolvimento
 
 </div>
 
-## 📚 Formação
 
-- **SESI-SP / UNICID**
-  - Formação e estudos em andamento.
+##  Formação
 
-## 🚀 Objetivos
+- **UNICID**
+  - Bacharelado Engenharia de Software(Cursando)
+
+- **Avança Tech**
+  - Estudos em programação com Java e PHP.
+
+
+##  Objetivos
 
 - Aprimorar meus conhecimentos em programação.
 - Desenvolver aplicações e soluções tecnológicas.
@@ -51,7 +56,5 @@ Sou estudante de tecnologia e tenho interesse em programação e desenvolvimento
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:1E1033&height=100&section=footer" width="100%" alt="Rodapé roxo"/>
-
-**Obrigado pela visita! 💜**
 
 </div>
