@@ -1,61 +1,22 @@
-# 👨‍💻 Matheus
+👋 Olá, eu sou Matheus Vitório Nascimento!
 
-**`Desenvolvedor Back-end`**
+🎂 18 anos
 
+🎓 SESI-SP / UNICID
 
-Me chamo Matheus Vitório Nascimento, tenho 18 anos e sou natural de São paulo. Concluí o ensino médio no Sesi-sp, com o curso técnico em Multimeios Didaticos. Atualmente, estou cursando Egenharia de software na UNICID. Sou apaixonado por tecnologia e estou sempre em busca de mais conhecimento
+💻 Estudante de tecnologia e desenvolvimento de software.
 
----
+🚀 Tecnologias
 
-### 🤖 Linguagens e Tecnologias 
+<div align="left">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
 
+📚 Sobre mim
 
-<img 
-      align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-      align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="python" 
-    title="python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
+Sou estudante e entusiasta da programação, buscando desenvolver minhas habilidades e aprender novas tecnologias para crescer profissionalmente na área de desenvolvimento de software.
