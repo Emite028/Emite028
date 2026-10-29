@@ -1,59 +1,57 @@
-**`Desenvolvedor Back-end`**
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1033,55:6B21A8,100:A855F7&height=220&section=header&text=Matheus%20Vit%C3%B3rio&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Java%20%E2%80%A2%20Python%20%E2%80%A2%20HTML%20%E2%80%A2%20CSS%20%E2%80%A2%20PHP&descAlignY=60&descSize=16&animation=fadeIn" alt="Banner de Matheus Vitório"/>
 
-Me chamo Matheus Vitório Nascimento, tenho 17 anos e sou natural de São paulo. Concluí o ensino médio no Sesi-sp, com o curso técnico em Multimeios Didaticos. Atualmente, estou cursando Egenharia de software na UNICID. Sou apaixonado por tecnologia e estou sempre em busca de mais conhecimento
-Me chamo Matheus Vitório Nascimento, tenho 18 anos e sou natural de São paulo. Concluí o ensino médio no Sesi-sp, com o curso técnico em Multimeios Didaticos. Atualmente, estou cursando Egenharia de software na UNICID. Sou apaixonado por tecnologia e estou sempre em busca de mais conhecimento
+<div align="center">
 
----
+[![Apresentação animada](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=C084FC&center=true&vCenter=true&width=680&lines=Estudante+de+Desenvolvimento;SESI-SP+%2F+UNICID;Aprendendo+e+evoluindo+na+programa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
-### 🤖 Linguagens e Tecnologias 
+</div>
 
+## 👨‍💻 Sobre mim
 
-<img 
-      align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-      align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="python" 
-    title="python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+```yaml
+nome:          Matheus Vitório Nascimento
+idade:         18 anos
+formação:      SESI-SP / UNICID
+área:          Tecnologia e Desenvolvimento de Software
+interesses:    Programação • Desenvolvimento Web
+objetivo:      Evoluir como desenvolvedor
+```
+
+Sou estudante de tecnologia e tenho interesse em programação e desenvolvimento de software. Estou sempre buscando aprimorar meus conhecimentos, aprender novas tecnologias e desenvolver minhas habilidades para crescer profissionalmente na área de tecnologia.
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+### Linguagens de programação
+
+<img src="https://skillicons.dev/icons?i=java,python,php,js&theme=dark" alt="Java, Python, PHP e JavaScript"/>
+
+### Desenvolvimento web
+
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML e CSS"/>
+
+</div>
+
+## 📚 Formação
+
+- **SESI-SP / UNICID**
+  - Formação e estudos em andamento.
+
+## 🚀 Objetivos
+
+- Aprimorar meus conhecimentos em programação.
+- Desenvolver aplicações e soluções tecnológicas.
+- Aprender novas linguagens e ferramentas.
+- Crescer profissionalmente na área de desenvolvimento de software.
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:1E1033&height=100&section=footer" width="100%" alt="Rodapé roxo"/>
+
+**Obrigado pela visita! 💜**
+
+</div>
